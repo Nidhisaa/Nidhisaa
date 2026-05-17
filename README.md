@@ -1,81 +1,168 @@
-# 👋 Hello..!
+<div align="center">
 
-🌟 **Crafting beautiful things with code and curiosity.**  
-🎨 **From sketch to screen, I make ideas real.**
+# ✨ Hey, I'm Nidhisaa 👋
+
+### 🚀 Full Stack Developer | UI/UX Enthusiast | Future DevOps Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Smart+%26+Scalable+Applications;Full+Stack+%7C+MERN+%7C+Future+DevOps+Engineer;Crafting+Creative+Digital+Experiences;Always+Learning+Something+New+🚀" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Nidhisaa&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🛠️ What I Do
-- Front-End Development (HTML, CSS, JavaScript)
-- UI/UX Design & Prototyping
-- Creative Coding & Interactive Web Experiences
-- Currently exploring: animations, performance optimization, and design systems
+# 🌟 About Me
 
-# 🚀 Tech Stack
+```yaml
+Name: Nidhisaa
+Role: Full Stack Developer
+Future Goal: DevOps Engineer
+Focus: MERN + Backend + Cloud
+Currently Learning:
+  - Cloud & CI/CD
+  - Backend Architecture
+  - Performance Optimization
+Interests:
+  - Web Development
+  - DevOps Automation
+  - Creative UI Design
+  - API Integrations
+```
 
-## 💻 Programming Languages
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-004482?logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
+---
+
+# ⚡ Tech Arsenal
+
+## 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,c,mysql,mongodb" />
+</p>
 
 ---
 
 ## 🌐 Full Stack Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-B4CA65?logo=ejs&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST%20APIs-02569B?logo=fastapi&logoColor=white)
 
----
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
-## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/EJS-Template%20Engine-B4CA65?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" />
+</p>
 
 ---
 
 ## ⚙️ DevOps & Cloud
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
 ## 🧠 Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- DBMS
-- Problem Solving
-- Full Stack Development
-- RESTful API Development
-- CI/CD Pipelines
+
+<div align="center">
+
+| OOP | DBMS | DSA | Problem Solving |
+|------|------|------|------|
+| REST APIs | CI/CD | Full Stack | Backend Systems |
+
+</div>
 
 ---
 
-## 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Xilinx Vivado](https://img.shields.io/badge/-Vivado-CC0000?logo=xilinx&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?logo=arduino&logoColor=white)
-![Proteus](https://img.shields.io/badge/-Proteus-1C79B3?logo=proteus&logoColor=white)
-![TinkerCad](https://img.shields.io/badge/-TinkerCad-1477D1?logo=autodesk&logoColor=white)
+# 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,arduino" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Xilinx_Vivado-FPGA_Design-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TinkerCad-Design-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🌟 Additional Interests
-- Backend Development
-- Cloud & DevOps Workflows
-- MERN Stack Applications
-- API Integrations
-- Embedded-IoT Integration
-- UI/UX Exploration
+# 🚀 Featured Domains
+
+```diff
++ Full Stack Development
++ Backend Engineering
++ MERN Applications
++ DevOps Workflows
++ Cloud & Automation
++ API Integrations
++ UI/UX Exploration
+```
+
 ---
 
-_“Code is not just logic—it’s expression.”_
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nidhisaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Workflow / Contribution Graph
+
+<div align="center">
+
+[![Nidhisaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night)](https://github.com/Nidhisaa)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Nidhisaa">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/nidhisaa-senthil-aa507627a/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:senthilnidhi57@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code + Creativity + Curiosity = Innovation” ✨
+
+</div>
