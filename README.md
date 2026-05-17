@@ -2,10 +2,12 @@
 
 # ✨ Hey, I'm Nidhisaa 👋
 
-### 🚀 Full Stack Developer | UI/UX Enthusiast | Future DevOps Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Smart+%26+Scalable+Applications;Full+Stack+%7C+MERN+%7C+Future+DevOps+Engineer;Crafting+Creative+Digital+Experiences;Always+Learning+Something+New+🚀" />
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Future+DevOps+Engineer;Always+Learning+New+Things+🚀"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
