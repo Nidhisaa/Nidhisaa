@@ -6,11 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Smart+%26+Scalable+Applications;Full+Stack+%7C+MERN+%7C+Future+DevOps+Engineer;Crafting+Creative+Digital+Experiences;Always+Learning+Something+New+🚀" />
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=Nidhisaa&color=blueviolet&style=for-the-badge)
-
-</div>
 
 ---
 
@@ -69,18 +64,6 @@ Interests:
 
 ---
 
-## 🧠 Core Concepts
-
-<div align="center">
-
-| OOP | DBMS | DSA | Problem Solving |
-|------|------|------|------|
-| REST APIs | CI/CD | Full Stack | Backend Systems |
-
-</div>
-
----
-
 # 🔧 Tools & Platforms
 
 <p align="left">
@@ -106,18 +89,6 @@ Interests:
 + API Integrations
 + UI/UX Exploration
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nidhisaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
