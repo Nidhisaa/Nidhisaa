@@ -10,6 +10,7 @@
 </p>
 
 ---
+<div align="center">
 
 # 🌟 About Me
 
@@ -118,7 +119,7 @@ Interests:
 
 # 🌐 Connect With Me
 
-<div align="left">
+<div align="centre">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Nidhisaa)
 
@@ -130,7 +131,7 @@ Interests:
 
 ---
 
-<div align="left">
+<div align="centre">
 
 ### ✨ Code + Creativity + Curiosity = Innovation ✨
 
