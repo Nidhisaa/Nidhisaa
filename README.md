@@ -34,7 +34,7 @@ Interests:
 </pre>
 
 </div>
-
+</div>
 
 ## 💻 Languages
 
