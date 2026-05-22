@@ -18,16 +18,20 @@ Name: Nidhisaa
 Role: Full Stack Developer
 Future Goal: DevOps Engineer
 Focus: MERN + Backend + Cloud
+
 Currently Learning:
   - Cloud & CI/CD
   - Backend Architecture
   - Performance Optimization
+
 Interests:
   - Web Development
   - DevOps Automation
   - Creative UI Design
   - API Integrations
 ```
+
+</div>
 
 ---
 
@@ -36,7 +40,7 @@ Interests:
 ## 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,c,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,mysql,mongodb" />
 </p>
 
 ---
@@ -44,12 +48,12 @@ Interests:
 ## 🌐 Full Stack Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/EJS-Template%20Engine-B4CA65?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/EJS-Template%20Engine-B4CA65?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" />
 </p>
 
 ---
@@ -57,11 +61,11 @@ Interests:
 ## ⚙️ DevOps & Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
@@ -69,13 +73,13 @@ Interests:
 # 🔧 Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=vscode,arduino" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Xilinx_Vivado-FPGA_Design-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TinkerCad-Design-orange?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-FPGA_Design-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TinkerCad-Design-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -97,9 +101,7 @@ Interests:
 # 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -107,28 +109,29 @@ Interests:
 # 📈 Workflow / Contribution Graph
 
 <div align="center">
-
-[![Nidhisaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night)](https://github.com/Nidhisaa)
-
+  <a href="https://github.com/Nidhisaa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night"/>
+  </a>
 </div>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Nidhisaa)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nidhisaa-senthil-aa507627a/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:senthilnidhi57@gmail.com)
+
 </div>
 
 ---
 
-<div align="left">
+<div align="center">
 
-### ✨ “Code + Creativity + Curiosity = Innovation” ✨
+### ✨ Code + Creativity + Curiosity = Innovation ✨
 
 </div>
