@@ -57,7 +57,7 @@ Interests:
 ## ⚙️ DevOps & Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </p>
 
 <p>
@@ -116,25 +116,18 @@ Interests:
 
 # 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
 
-<a href="https://github.com/Nidhisaa">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Nidhisaa)
 
-<a href="https://linkedin.com/in/nidhisaa-senthil-aa507627a/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nidhisaa-senthil-aa507627a/)
 
-<a href="mailto:senthilnidhi57@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:senthilnidhi57@gmail.com)
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### ✨ “Code + Creativity + Curiosity = Innovation” ✨
 
