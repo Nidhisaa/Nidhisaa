@@ -11,6 +11,8 @@
 
 ---
 
+<div align="center">
+
 # 🌟 About Me
 
 ```yaml
@@ -32,9 +34,6 @@ Interests:
 ```
 
 </div>
-
----
-
 # ⚡ Tech Arsenal
 
 ## 💻 Languages
