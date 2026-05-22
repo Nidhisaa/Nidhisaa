@@ -11,11 +11,11 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 # 🌟 About Me
 
-```yaml
+<pre align="center">
 Name: Nidhisaa
 Role: Full Stack Developer
 Future Goal: DevOps Engineer
@@ -31,8 +31,8 @@ Interests:
   - DevOps Automation
   - Creative UI Design
   - API Integrations
-```
-</div>
+</pre>
+
 </div>
 
 
