@@ -32,9 +32,9 @@ Interests:
   - Creative UI Design
   - API Integrations
 ```
-
 </div>
-# ⚡ Tech Arsenal
+</div>
+
 
 ## 💻 Languages
 
