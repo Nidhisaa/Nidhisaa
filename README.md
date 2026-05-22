@@ -10,7 +10,8 @@
 </p>
 
 ---
-
+<div align="center">
+  
 # 🌟 About Me
 
 ```yaml
@@ -32,7 +33,7 @@ Interests:
 ```
 
 </div>
-
+</div>
 ---
 
 # ⚡ Tech Arsenal
