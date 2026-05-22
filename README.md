@@ -10,10 +10,10 @@
 </p>
 
 ---
-<div align="center">
+
   
 # 🌟 About Me
-
+<p align="center">
 ```yaml
 Name: Nidhisaa
 Role: Full Stack Developer
@@ -31,8 +31,8 @@ Interests:
   - Creative UI Design
   - API Integrations
 ```
+</p>
 
-</div>
 </div>
 ---
 
