@@ -10,7 +10,6 @@
 </p>
 
 ---
-<div align="center">
 
 # 🌟 About Me
 
@@ -102,7 +101,9 @@ Interests:
 # 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -110,16 +111,18 @@ Interests:
 # 📈 Workflow / Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/Nidhisaa">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night"/>
-  </a>
+
+<a href="https://github.com/Nidhisaa">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night"/>
+</a>
+
 </div>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="centre">
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Nidhisaa)
 
@@ -131,7 +134,7 @@ Interests:
 
 ---
 
-<div align="centre">
+<div align="center">
 
 ### ✨ Code + Creativity + Curiosity = Innovation ✨
 
