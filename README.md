@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Future+DevOps+Engineer;Always+Learning+New+Things+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Front+End+Developer;UI%2FUX+Enthusiast;Future+DevOps+Engineer;Always+Learning+New+Things+🚀"
     alt="Typing SVG"
   />
 </p>
@@ -17,7 +17,7 @@
 
 <pre align="center">
 Name: Nidhisaa
-Role: Full Stack Developer
+Role: Front End Developer
 Future Goal: DevOps Engineer
 Focus: MERN + Backend + Cloud
 
