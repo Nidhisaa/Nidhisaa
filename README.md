@@ -1,7 +1,7 @@
 <div align="center">
-# ✨ Hey, I'm Nidhisaa 👋
-
-### UI/UX Designer • Front-End Developer • Future DevOps Engineer
+  <h1> 
+✨ Hey, I'm Nidhisaa 👋
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+User-Centric+Experiences;Building+Modern+Web+Applications;Exploring+Cloud+%26+DevOps;Always+Learning+Something+New+🚀" />
 
