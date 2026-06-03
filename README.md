@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:00BFFF&height=180&section=header"/>
 <div align="center">
 
 # ✨ Hey, I'm Nidhisaa 👋
@@ -148,3 +149,4 @@ Web-based system for managing books, members, issue/return records, and inventor
 ### ✨ Designing • Developing • Innovating ✨
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:00FFB3&height=120&section=footer"/>
