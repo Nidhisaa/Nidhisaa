@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:00BFFF&height=180&section=header"/>
-<div align="center">
 
 # ✨ Hey, I'm Nidhisaa 👋
 
@@ -54,7 +52,9 @@
 ### 🎨 Design & Prototyping
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireframing-Figma-purple?style=for-the-badge" />
 </p>
 
 ### ⚙️ DevOps & Cloud
