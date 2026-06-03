@@ -2,102 +2,124 @@
 
 # ✨ Hey, I'm Nidhisaa 👋
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Front+End+Developer;UI%2FUX+Enthusiast;Future+DevOps+Engineer;Always+Learning+New+Things+🚀"
-    alt="Typing SVG"
-  />
+### UI/UX Designer • Front-End Developer • Future DevOps Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+User-Centric+Experiences;Building+Modern+Web+Applications;Exploring+Cloud+%26+DevOps;Always+Learning+Something+New+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Nidhisaa&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Electronics & Communication Engineering Student
+- 🎨 UI/UX Designer with hands-on experience in Figma
+- 💻 Front-End Developer passionate about clean and intuitive interfaces
+- ⚙️ Exploring Full-Stack Development with MERN technologies
+- ☁️ Currently learning Cloud Computing, CI/CD and DevOps practices
+- 🚀 Interested in building scalable and user-centric digital products
+
+---
+
+## 🌱 Currently Exploring
+
+- ☁️ AWS Cloud Fundamentals
+- 🔄 CI/CD Pipelines
+- 🐳 Docker Containerization
+- ⚙️ Backend Architecture
+- 🎨 Advanced UI/UX Design
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,c,mysql,mongodb" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/EJS-Template%20Engine-B4CA65?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" />
+</p>
+
+### 🎨 Design & Prototyping
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### ⚙️ DevOps & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,arduino" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Xilinx_Vivado-FPGA_Design-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TinkerCad-Design-orange?style=for-the-badge" />
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+### 🛕 Temple Management System
+Full-stack temple management application built using Node.js, Express.js, EJS, MySQL, Docker, and GitHub Actions.
+
+### 💊 Drug Inventory & Supply Chain Tracking System
+Database-driven inventory tracking solution for manufacturers, warehouses, and vendors.
+
+### 📚 Library Management System
+Web-based system for managing books, members, issue/return records, and inventory tracking with efficient database management.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-# 🌟 About Me
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nidhisaa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<pre align="center">
-Name: Nidhisaa
-Role: Front End Developer
-Future Goal: DevOps Engineer
-Focus: MERN + Backend + Cloud
-
-Currently Learning:
-  - Cloud & CI/CD
-  - Backend Architecture
-  - Performance Optimization
-
-Interests:
-  - Web Development
-  - DevOps Automation
-  - Creative UI Design
-  - API Integrations
-</pre>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisaa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nidhisaa&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </div>
 
-## 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,c,mysql,mongodb" />
-</p>
-
 ---
 
-## 🌐 Full Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/EJS-Template%20Engine-B4CA65?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" />
-</p>
-
----
-
-## ⚙️ DevOps & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
----
-
-# 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,arduino" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-FPGA_Design-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Proteus-Simulation-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TinkerCad-Design-orange?style=for-the-badge" />
-</p>
-
----
-
-# 🚀 Featured Domains
-
-```diff
-+ Full Stack Development
-+ Backend Engineering
-+ MERN Applications
-+ DevOps Workflows
-+ Cloud & Automation
-+ API Integrations
-+ UI/UX Exploration
-```
-
----
-
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -107,32 +129,40 @@ Interests:
 
 ---
 
-# 📈 Workflow / Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/Nidhisaa">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 💡 Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Nidhisaa">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://linkedin.com/in/nidhisaa-senthil-aa507627a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:senthilnidhi57@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
@@ -141,6 +171,6 @@ Interests:
 
 <div align="center">
 
-### ✨ Code + Creativity + Curiosity = Innovation ✨
+### ✨ Designing • Developing • Innovating ✨
 
 </div>
