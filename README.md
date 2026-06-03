@@ -1,4 +1,4 @@
-
+<div align="center">
 # ✨ Hey, I'm Nidhisaa 👋
 
 ### UI/UX Designer • Front-End Developer • Future DevOps Engineer
