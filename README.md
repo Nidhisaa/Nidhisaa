@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+User-Centric+Experiences;Building+Modern+Web+Applications;Exploring+Cloud+%26+DevOps;Always+Learning+Something+New+🚀" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Nidhisaa&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
@@ -94,28 +90,6 @@ Database-driven inventory tracking solution for manufacturers, warehouses, and v
 
 ### 📚 Library Management System
 Web-based system for managing books, members, issue/return records, and inventory tracking with efficient database management.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nidhisaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nidhisaa&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
