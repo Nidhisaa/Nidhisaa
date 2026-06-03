@@ -52,9 +52,11 @@
 ### 🎨 Design & Prototyping
 
 <p align="left">
-<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wireframing-Figma-purple?style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=figma,wordpress" />
+
+<img height="48" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
 </p>
 
 ### ⚙️ DevOps & Cloud
