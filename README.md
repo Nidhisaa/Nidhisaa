@@ -100,7 +100,7 @@ Web-based system for managing books, members, issue/return records, and inventor
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -120,7 +120,7 @@ Web-based system for managing books, members, issue/return records, and inventor
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
