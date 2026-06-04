@@ -99,9 +99,7 @@ Web-based system for managing books, members, issue/return records, and inventor
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nidhisaa&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhisaa&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -111,16 +109,6 @@ Web-based system for managing books, members, issue/return records, and inventor
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhisaa&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 💡 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
